@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hjkl/static/css/main.e6c13ad2.css",
+    "main.js": "/hjkl/static/js/main.8d0e2085.js",
+    "static/js/787.bc7d429a.chunk.js": "/hjkl/static/js/787.bc7d429a.chunk.js",
+    "index.html": "/hjkl/index.html",
+    "main.e6c13ad2.css.map": "/hjkl/static/css/main.e6c13ad2.css.map",
+    "main.8d0e2085.js.map": "/hjkl/static/js/main.8d0e2085.js.map",
+    "787.bc7d429a.chunk.js.map": "/hjkl/static/js/787.bc7d429a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.8d0e2085.js"
+  ]
+}
